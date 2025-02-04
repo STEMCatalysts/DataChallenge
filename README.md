@@ -1,3 +1,4 @@
+You can view the clode by opening the file named 
 To do your own analysis, please follow the steps below:
 * Make sure you are signed into a google account
 * Click on the Google Colab link below
