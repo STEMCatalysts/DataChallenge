@@ -1,4 +1,4 @@
-You can view the code by opening the file named **_DataPuzzle_Food_Waste.ipynb_**
+You can view the code by opening the file named **_DataPuzzle_Food_Trends.ipynb_**
 
 If you want to do your own analysis, please follow the steps below:
 * Make sure you are signed into a google account
